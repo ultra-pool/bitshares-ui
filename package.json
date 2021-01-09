@@ -171,7 +171,7 @@
         "lzma": "2.1.6",
         "moment": "^2.22.2",
         "moment-timezone": "^0.5.16",
-        "node-rsa": "^0.4.2",
+        "node-rsa": "^1.1.1",
         "notifyjs": "^3.0.0",
         "numeral": "2.0.4",
         "object-assign": "^4.0.1",

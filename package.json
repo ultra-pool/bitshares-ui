@@ -179,7 +179,7 @@
         "perfect-scrollbar": "git+https://github.com/bitshares/perfect-scrollbar.git",
         "prop-types": "^15.6.1",
         "qrcode": "^1.4.4",
-        "qrcode.react": "^0.7.1",
+        "qrcode.react": "^1.0.1",
         "query-string": "^6.1.0",
         "react": "^16.11.0",
         "react-autocomplete": "^1.7.2",

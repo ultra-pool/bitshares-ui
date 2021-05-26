@@ -199,7 +199,7 @@
         "react-qr-reader": "^2.2.1",
         "react-responsive-mixin": "^0.4.0",
         "react-router-dom": "^5.1.2",
-        "react-scroll": "^1.8.1",
+        "react-scroll": "^1.8.2",
         "react-tooltip": "^3.11.6",
         "react-transition-group": "^1.2.0",
         "react-translate-component": "^0.15.1",

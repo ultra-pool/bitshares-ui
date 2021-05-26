@@ -159,7 +159,7 @@
         "hirestime": "^6.1.0",
         "ifvisible": "^1.1.0",
         "immutable": "3.8.2",
-        "indexeddbshim": "^2.2.1",
+        "indexeddbshim": "^7.1.0",
         "intl": "^1.2.5",
         "intro.js": "^2.8.0-alpha.1",
         "jdenticon": "git+https://github.com/cryptonomex/jdenticon.git",

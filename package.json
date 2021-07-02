@@ -249,7 +249,7 @@
         "html-webpack-plugin": "^3.2.0",
         "html2canvas": "^1.0.0-alpha.12",
         "https": "^1.0.0",
-        "husky": "^0.14.3",
+        "husky": "^7.0.0",
         "jest-cli": "^24.9.0",
         "less-plugin-precompile-import": "git+https://github.com/gibbsfromncis/less-plugin-precompile-import.git#166550452515c03c0d497cae97bf58ba15ca1f84",
         "markdown-loader": "^6.0.0",
